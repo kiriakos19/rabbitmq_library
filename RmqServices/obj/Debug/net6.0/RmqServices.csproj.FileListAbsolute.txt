@@ -1,0 +1,12 @@
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\bin\Debug\net6.0\RmqServices.deps.json
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\bin\Debug\net6.0\RmqServices.dll
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\bin\Debug\net6.0\RmqServices.pdb
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.csproj.AssemblyReference.cache
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.AssemblyInfoInputs.cache
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.AssemblyInfo.cs
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.csproj.CoreCompileInputs.cache
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.dll
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\refint\RmqServices.dll
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\RmqServices.pdb
+D:\Source\Repos\AB01\Common\MessageQueue\RmqServices\obj\Debug\net6.0\ref\RmqServices.dll

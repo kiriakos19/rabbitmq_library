@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrF6ID8k190bpDy/LXVUPen96SFKgLwMuo6a71O6q8VbN3TWtQ9Tm/udm8C7h+lzi9ioi/rVO8xCQO78Ca9fTA==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Repos\\AB01\\Common\\MessageQueue\\RmqServices\\RmqServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpallas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.11\\microsoft.extensions.objectpool.7.0.11.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\dpallas\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
